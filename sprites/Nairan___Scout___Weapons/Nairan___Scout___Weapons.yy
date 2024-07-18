@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":44,
   "bbox_left":20,
-  "bbox_right":363,
+  "bbox_right":43,
   "bbox_top":23,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,19 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"9acd1114-6200-4ac2-b067-e144b3b75213","name":"9acd1114-6200-4ac2-b067-e144b3b75213","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1eaa8120-cf70-4e47-ac10-52923d1a4222","name":"1eaa8120-cf70-4e47-ac10-52923d1a4222","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1d599c91-7b22-41cd-920e-d293b5cc54ff","name":"1d599c91-7b22-41cd-920e-d293b5cc54ff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"aa7a7553-d05c-4b3f-ac8d-79814778c3a1","name":"aa7a7553-d05c-4b3f-ac8d-79814778c3a1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"04d7fd7d-54c9-4a51-b957-5a3d256ec950","name":"04d7fd7d-54c9-4a51-b957-5a3d256ec950","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d581677d-3ba4-41d8-aba7-5c5292b85ae9","name":"d581677d-3ba4-41d8-aba7-5c5292b85ae9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0520b15e-30ea-4650-a2ea-2e793f386677","name":"0520b15e-30ea-4650-a2ea-2e793f386677","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"0784b137-89b7-4c98-b771-7fb07606a2d5","blendMode":0,"displayName":"default","isLocked":false,"name":"0784b137-89b7-4c98-b771-7fb07606a2d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ce68afc0-3950-41d2-92b1-d2ccf87fe25e","blendMode":0,"displayName":"default","isLocked":false,"name":"ce68afc0-3950-41d2-92b1-d2ccf87fe25e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Nairan___Scout___Weapons",
   "nineSlice":null,
@@ -49,7 +54,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":6.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +64,7 @@
     },
     "name":"Nairan___Scout___Weapons",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":10.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +74,23 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9acd1114-6200-4ac2-b067-e144b3b75213","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"46ad2617-b224-44ce-8f9b-07c0b165cdea","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1eaa8120-cf70-4e47-ac10-52923d1a4222","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"619c4deb-0f19-4029-b9ba-040f35b6e787","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1d599c91-7b22-41cd-920e-d293b5cc54ff","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2ba35311-ab72-4420-8c56-8a06922314de","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa7a7553-d05c-4b3f-ac8d-79814778c3a1","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4acc2a34-f7b9-4833-9c20-ae08d1f8204b","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04d7fd7d-54c9-4a51-b957-5a3d256ec950","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"394d58b8-f464-43bb-a780-f82b32ec6997","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d581677d-3ba4-41d8-aba7-5c5292b85ae9","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1cb7c5a1-e6cb-43db-a632-eb5b26d0d9ed","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0520b15e-30ea-4650-a2ea-2e793f386677","path":"sprites/Nairan___Scout___Weapons/Nairan___Scout___Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e5dcc3b0-e1c6-4dc6-b04c-1e4398ee23fb","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +106,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":384,
+  "width":64,
 }
